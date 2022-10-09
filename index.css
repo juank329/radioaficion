@@ -19,3 +19,15 @@ p{
     color: black;
     font-size: 28PX;
 }
+h2{
+    text-align: center;
+}
+
+
+
+.qrz{
+    text-align: center;
+    color: red;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}

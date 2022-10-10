@@ -9,19 +9,22 @@
     color: blue;
     font-size: 60px;
     text-align: center;
-    background-color: burlywood;
 }
 
 .mifoto{
     text-align: center;
 }
+
+.eqsl{
+    text-align: center;
+}
+
 p{
     color: black;
-    font-size: 28PX;
+    font-size: 20PX;
 }
 h2{
     text-align: center;
-    background-color: bisque;
 }
 
 
@@ -38,7 +41,6 @@ h2{
     text-align: center;
     color: cornflowerblue;
     font-size: 30px;
-    background-color: bisque;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 

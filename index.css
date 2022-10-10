@@ -27,10 +27,11 @@ h2{
 
 
 .qrz{
-    text-align: center;
     color: red;
-    font-size: 30px;
-    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
 }
 
 .clublog{
@@ -45,3 +46,9 @@ h2{
     text-align: center;
 }
 
+.hrdlog{
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
